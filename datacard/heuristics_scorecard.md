@@ -1,9 +1,9 @@
 # Heuristics Scorecard (Module 4)
 
-- Completeness: __/5
-- Accuracy: __/5
-- Clarity: __/5
-- Timeliness: __/5
-- Actionability: __/5
+- Completeness: 4/5
+- Accuracy: 4/5
+- Clarity: 5/5
+- Timeliness: 5/5
+- Actionability: 4/5
 
 Ghi chú:
